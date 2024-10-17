@@ -1,6 +1,6 @@
 # OpenCore-EFI-for-ASRock-H610M-HDV-M.2-RX6600XT-i3-12100F
 
-![About](Docs/about.png)
+![About](docs/about.png)
 
 # Current macOS
 
