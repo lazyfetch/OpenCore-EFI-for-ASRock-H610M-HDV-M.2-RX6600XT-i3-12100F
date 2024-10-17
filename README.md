@@ -15,4 +15,4 @@ Current Version: macOS Sonoma 14.7
 
 Make sure you have updated the bios to the latest version. 
 
-This simple OpenCore configuration does not include on the
+This simple OpenCore configuration does not include BT and WIFI module settings.
