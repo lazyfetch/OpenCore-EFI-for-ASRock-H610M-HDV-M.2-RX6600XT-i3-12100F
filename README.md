@@ -2,7 +2,7 @@
 
 # Current macOS
 
-Current Version: macOS Ventura 13.6.3
+Current Version: macOS Sonoma 14.7
 
 # Hardware
 
