@@ -1,5 +1,3 @@
-# OpenCore-EFI-for-ASRock-H610M-HDV-M.2-RX6600XT-i3-12100F
-
 # Current macOS
 
 Current Version: macOS Sonoma 14.7
