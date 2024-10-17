@@ -1,7 +1,5 @@
 # OpenCore-EFI-for-ASRock-H610M-HDV-M.2-RX6600XT-i3-12100F
 
-![About](docs/about.png)
-
 # Current macOS
 
 Current Version: macOS Ventura 13.6.3
